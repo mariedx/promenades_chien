@@ -1,24 +1,16 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Le Airbnb des promenades de chiens
 
-Things you may want to cover:
+----------------
 
-* Ruby version
+Ce projet permet de créer une base de données composées de plusieurs tables :
+- Dogs 
+- Dogsitters
+- Scrolls (balades)
+- Cities 
 
-* System dependencies
+Ce projet permet de matcher les données de Dog, Dogsitter et promenade dans la meme ville 
 
-* Configuration
+PS : la ballade et le dogsitter match mais pas le chien, oups. On a fait ce qu'on a pu.
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
